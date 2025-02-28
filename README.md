@@ -33,4 +33,9 @@ Below are some key visualizations:
 
 *(Include image links if available, or upload them inside a /images folder in the repo.)*
 
-## 📂 Project Structure
+## *Contact*
+- *Developer: Prathamesh Naik*
+- *Email: prathamesh.naik.108@gmail.com*
+- *GitHub: NARCOS08*
+- *LinkedIn: https:www.linkedin.com/in/prathamesh-naik-95990b1a7/*
+-Feel free to reach out for any queries or feedback!
